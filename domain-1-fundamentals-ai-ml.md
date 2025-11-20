@@ -30,9 +30,9 @@ Objectives:
 - [**Computer Vision**](https://aws.amazon.com/what-is/computer-vision/)
     - Computer Vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs, and take actions or make recommendations based on that information.
         - Object detection: Identifying and locating objects within an image or video.
-        - CNN (Convolutional Neural Networks): Used for single image analysis.
+        - CNN (Convolutional Neural Networks): Used for **single-image** analysis.
             - Examples: Image classification, object detection, image segmentation.
-        - RNN (Recurrent Neural Networks): Used for video analysis.
+        - RNN (Recurrent Neural Networks): Used for **video analysis**.
             - Examples: Activity recognition, video classification, video captioning.
 - [**Natural Language Processing (NLP)**](https://aws.amazon.com/what-is/nlp/)
 - **Models**
