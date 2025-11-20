@@ -43,8 +43,8 @@ Objectives:
     - [**Foundation Models vs Large Language Models**](https://www.openxcell.com/blog/foundation-model-vs-llm/)
 - [**What are the types of machine learning algorithms?**](https://aws.amazon.com/what-is/machine-learning/#ams#what-isc8#pattern-data)
     - **Supervised machine learning**
-        - KNN (K-Nearest Neighbors): A simple, instance-based learning algorithm used for classification and regression tasks. It classifies new data points based on the majority class of their k-nearest neighbors in the feature space.
-        - SVM (Support Vector Machines): A supervised learning algorithm used for classification and regression tasks. It works by finding the optimal hyperplane that separates data points of different classes in the feature space.
+        - KNN (K-Nearest Neighbors): A simple, instance-based learning algorithm used for **classification** and regression tasks. It classifies new data points based on the majority class of their k-nearest neighbors in the feature space.
+        - SVM (Support Vector Machines): A supervised learning algorithm used for **classification** and regression tasks. It works by finding the optimal hyperplane that separates data points of different classes in the feature space.
     - **Unsupervised machine learning**
         - K-Means Clustering: A popular unsupervised learning algorithm **used for clustering tasks**. It partitions a dataset into k distinct clusters based on feature similarity, where each data point belongs to the cluster with the nearest mean.
         It's not use for prediction classification or regression tasks.
